@@ -1,0 +1,7 @@
+# General files to ignore.
+.DS_Store
+
+# Python files to ignore.
+*.pyc
+venvy
+venv

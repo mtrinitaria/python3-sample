@@ -1,0 +1,12 @@
+# General files to ignore.
+.DS_Store
+
+# Python files to ignore.
+*.pyc
+venvy
+venv
+
+# Node/npm files to ignore.
+node_modules
+npm-debug.log
+npm-debug.log*
